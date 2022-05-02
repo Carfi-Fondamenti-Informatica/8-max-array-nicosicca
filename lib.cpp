@@ -11,7 +11,3 @@ float maggiore(float x[], int d)
     }
     return m;
 }
-
-
-
-
