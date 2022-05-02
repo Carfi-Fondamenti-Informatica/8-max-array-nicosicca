@@ -12,7 +12,7 @@ int main() {
         cin>>v[i];
     }
 
-    cout<<maggiore(v[],d);
+    cout<<maggiore(v,d);
 
 
     return 0;
