@@ -1,5 +1,5 @@
 #include "lib.h"
-double maggiore(double x[], int d)
+double maggiore(const double x[], int d)
 {
     double m=x[1];
     for(int i=0;i<d;i++)
