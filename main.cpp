@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int d;
     cin>>d;
-    double v[d];
+    float v[d];
 
     for(int i=0;i<d;i++)
     {
