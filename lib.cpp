@@ -1,3 +1,4 @@
+#include "lib.h"
 double maggiore(double x[], int d)
 {
     double m=x[1];
