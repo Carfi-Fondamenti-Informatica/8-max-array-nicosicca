@@ -14,6 +14,5 @@ int main() {
 
     cout<<maggiore(v,d);
 
-
     return 0;
 }
